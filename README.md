@@ -40,6 +40,8 @@ git remote rm origin
 
 ### 5:25- 学习git知识[菜鸟教程](https://www.runoob.com/git/git-workspace-index-repo.html)
 
+#### 基本
+
 ```
 git add 添加到缓存
 git commit 添加到仓库
@@ -47,5 +49,5 @@ git remote 添加到Github
 git push -u origin master
 ```
 
-
+#### git 删除服务器文件
 
